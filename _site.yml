@@ -1,0 +1,25 @@
+name: "rookery-bay-r-training"
+navbar:
+  title: "Rookery Bay R Training"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "What, why, and how of R"
+      href: usingr.html
+    - text: "Wrangling and plotting"
+      href: wrangleplot.html
+    - text: "Working with CDMO data"
+      href: workingcdmo.html
+    - text: "Spatial analysis and mapping"
+      href: mapping.html
+output_dir: "."
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    toc: true
+    toc_float: 
+       collapsed: true
+       
+    
