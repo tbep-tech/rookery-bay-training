@@ -10,6 +10,10 @@ This course is designed to expose you to the fundamentals of using R for reprodu
 * Create plots using R packages for exploratory data analysis
 * Use R to work with CDMO SWMP data
 
+## Pre-workshop survey
+
+Please fill out the [pre-workshop survey](https://forms.gle/XaA4558exJxdg6DV8) to help the organizers with planning. 
+
 ## Agenda
 
 Training will occur remotely on Monday __June 29th__ and Tuesday __June 30th__, login information will be sent by email. 
